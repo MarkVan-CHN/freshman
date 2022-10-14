@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+<dict>
+<key>1</key>
+<string>开始游戏</string>
+</dict>
+<dict>
+<key>2</key>
+<string>雷霆战机</string>
+</dict>
+<dict>
+<key>3</key>
+<string>当前波次：</string>
+</dict>
+<dict>
+<key>8</key>
+<string>目标波次：7</string>
+</dict>
+<dict>
+<key>4</key>
+<string>太厉害啦</string>
+</dict>
+<dict>
+<key>5</key>
+<string>再接再厉哦</string>
+</dict>
+<dict>
+<key>6</key>
+<string>复活</string>
+</dict>
+<dict>
+<key>7</key>
+<string>重新开始</string>
+</dict>
+</plist>
